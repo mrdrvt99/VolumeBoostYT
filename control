@@ -1,0 +1,9 @@
+Package: com.candyzp.volumeboostyt
+Name: VolumeBoostYT
+Depends: mobilesubstrate, firmware (>= 16.0)
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Description: Independent volume booster for YouTube
+Maintainer: candyzp
+Author: candyzp
+Section: Tweaks
